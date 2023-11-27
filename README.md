@@ -5,6 +5,5 @@
 The input files are stored in the folder all_arc. All need to be uploaded when using google colab.
 
 ## Code
-The code is titled ARC Visualization. It is designed to run in google colab, but functions wherever you use python.
-The order of visualizations is (1) ARC-Co payments from 2014-2022, (2) Projected EARC-Co payments from 2014-2022, and (3) Projected ARC-CA payments from 2014-2022
+The code is titled thesis.ipynb. It is designed to run in google colab, but it functions wherever you use python.
 The code includes downloadable options at the end if the user wants to keep or use the maps they have chosen.
